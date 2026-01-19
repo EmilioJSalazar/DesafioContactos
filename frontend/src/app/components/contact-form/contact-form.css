@@ -1,0 +1,19 @@
+.error-msg {
+  color: #d9534f;
+  font-size: 0.85em;
+  margin-top: 5px;
+}
+
+input.ng-invalid.ng-touched {
+  border-color: #d9534f;
+}
+
+button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+input[readonly]{
+    background-color: #e9ecef;
+    cursor: not-allowed;
+}

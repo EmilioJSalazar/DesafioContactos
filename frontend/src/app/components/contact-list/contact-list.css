@@ -1,0 +1,58 @@
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.contact-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+.contact-table th, .contact-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.contact-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.btn-delete {
+  background-color: #ff4444;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.btn-delete:hover {
+  background-color: #cc0000;
+}
+
+.btn-create {
+  background-color: #4CAF50; /* Verde */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+.btn-create:hover { background-color: #45a049; }
+
+.search-container {
+  margin-bottom: 15px;
+}
+
+.search-input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  max-width: 400px; /* Para que no sea gigante en pantallas grandes */
+}

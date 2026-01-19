@@ -1,0 +1,14 @@
+# --- Angular (Frontend) ---
+node_modules/
+dist/
+.angular/
+
+# --- .NET (Backend) ---
+bin/
+obj/
+.vscode/
+appsettings.Development.json
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db

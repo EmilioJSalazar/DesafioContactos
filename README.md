@@ -1,22 +1,22 @@
-# Desafío Técnico - Contactos Fullstack 📒
+# Desafío Técnico - Contactos Fullstack
 
 Aplicación web Fullstack para la gestión de contactos. Permite crear, listar, buscar, editar y eliminar registros mediante una API REST y una interfaz moderna.
 
 El proyecto cuenta con **persistencia de datos** en un archivo JSON local, asegurando que la información no se pierda al reiniciar el servidor.
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 * **Frontend:** Angular (TypeScript) + Bootstrap
 * **Backend:** C# .NET Web API
 * **Persistencia:** JSON File Storage (System.IO)
 
-## 📋 Requisitos Previos
+## Requisitos Previos
 
 Para ejecutar este proyecto necesitas tener instalado:
 * [.NET SDK](https://dotnet.microsoft.com/download)
 * [Node.js](https://nodejs.org/)
 
-## 🚀 Instrucciones de Ejecución
+## Instrucciones de Ejecución
 
 Sigue estos pasos en orden para levantar el entorno de desarrollo.
 
